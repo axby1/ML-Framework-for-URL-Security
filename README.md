@@ -1,3 +1,5 @@
+## Machine Learning Framework for Web URL Security using Feature Engineering
+
 This project is a **Machine Learning–based URL Classification Plugin** that helps users identify whether a given URL is *benign* or *malicious*. In addition to detecting malicious links, the system also **classifies the threat type** into one of four categories:
 
 * **Phishing**
